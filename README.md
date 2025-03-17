@@ -62,8 +62,4 @@
 </div>
 
 ###
-###
 
-<img src="https://raw.githubusercontent.com/Johny-Bodiga/Johny-Bodiga/output/snake.yml" alt="Snake animation" />
-
-###
